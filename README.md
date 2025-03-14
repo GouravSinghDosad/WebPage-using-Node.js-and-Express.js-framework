@@ -18,9 +18,11 @@ The project serves static files and renders dynamic pages using routes.
    git clone https://github.com/GouravSinghDosad/WebPage-using-Node.js-and-Express.js-framework.git
 
 2. Install dependencies:-
+   ```sh
    npm install
 
-3. Start the server:-
+4. Start the server:-
+   ```sh
    node index.js
 
 For starting server i used nodemon.
