@@ -10,7 +10,7 @@ The project serves static files and renders dynamic pages using routes.
 - Supports form data handling using `express.urlencoded`.
 
 ## **Project Screenshot**
-![Project Preview](/Screenshot (1174).png)
+![Screenshot (1174)](https://github.com/user-attachments/assets/6c2c2303-e186-40a3-8cc5-dfa32ee2ecca)
 
 ## **How to Run Locally**
 1. Clone the repository:
