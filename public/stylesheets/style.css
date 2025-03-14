@@ -1,11 +1,19 @@
 
-*{
+#main_heading, #pre_tag, #div_1, #div_2{
     margin: 0;
-    padding: 0;
+    padding-left: 20%;
     box-sizing: border-box;
 }
 
-html,body{
-    width: 100%;
-    height: 100%;
+#main_body{
+    padding-top: 10%;
+}
+
+#div_1, #div_2{
+    text-decoration: underline;
+    color: rgb(0, 128, 255);
+}
+
+#div_2{
+    padding-top: 5px;
 }
